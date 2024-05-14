@@ -68,10 +68,6 @@
 </p>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ibrahimahtsham&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimahtsham" />
-</p>
-
-<p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=ibrahimahtsham" alt="ibrahimahtsham" />
     </a>
@@ -93,4 +89,8 @@
         <p style="margin-top: 5px;">siamax</p>
     </div>
 
+</p>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=ibrahimahtsham&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimahtsham" />
 </p>
