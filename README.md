@@ -71,6 +71,15 @@
     <img src="https://komarev.com/ghpvc/?username=ibrahimahtsham&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimahtsham" />
 </p>
 
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ibrahimahtsham" alt="ibrahimahtsham" />
+    </a>
+</p>
+
+| ![GIF](https://media.tenor.com/GOabrbLMl4AAAAAM/plink-cat-plink.gif) | I once found myself in a state of pronounced mental derangement. As a consequence, I was subjected to confinement within a chamber characterized by its lining with a resilient material, colloquially referred to as a 'rubber room.' This enclosed space, in addition to its rubberized interior, harbored the presence of rodents, commonly known as rats. The proximity and interaction with these vermin induced a heightened state of mental agitation within me, thereby exacerbating my already compromised mental faculties. |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 <h3 align="left">The socials:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ibrahim-a-190637254" target="blank">
@@ -85,12 +94,3 @@
     </div>
 
 </p>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ibrahimahtsham" alt="ibrahimahtsham" />
-    </a>
-</p>
-
-| ![GIF](https://media.tenor.com/GOabrbLMl4AAAAAM/plink-cat-plink.gif) | I once found myself in a state of pronounced mental derangement. As a consequence, I was subjected to confinement within a chamber characterized by its lining with a resilient material, colloquially referred to as a 'rubber room.' This enclosed space, in addition to its rubberized interior, harbored the presence of rodents, commonly known as rats. The proximity and interaction with these vermin induced a heightened state of mental agitation within me, thereby exacerbating my already compromised mental faculties. |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
