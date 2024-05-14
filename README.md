@@ -1,22 +1,3 @@
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ibrahimahtsham&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimahtsham" />
-</p>
-
-<h3 align="left">The socials:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/ibrahim-a-190637254" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-a-190637254" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/@siamax1" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siamax1" height="30" width="40" />
-    </a>
-    <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="siamax" height="30" width="40" style="pointer-events: none;" />
-        <p style="margin-top: 5px;">siamax</p>
-    </div>
-
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -84,6 +65,25 @@
 
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimahtsham&" alt="ibrahimahtsham" />
+</p>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=ibrahimahtsham&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimahtsham" />
+</p>
+
+<h3 align="left">The socials:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/ibrahim-a-190637254" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-a-190637254" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/@siamax1" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siamax1" height="30" width="40" />
+    </a>
+    <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="siamax" height="30" width="40" style="pointer-events: none;" />
+        <p style="margin-top: 5px;">siamax</p>
+    </div>
+
 </p>
 
 <p align="left">
