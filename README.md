@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=header&text=Hi%20👋,%20I'm%20Ibrahim%20Ahtsham&fontSize=30&fontAlignY=40&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Tech%20Explorer&descAlignY=60&descAlign=50&textColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=header&text=Hi%20👋,%20I'm%20Ibrahim%20Ahtsham&fontSize=30&fontAlignY=40&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Tech%20Explorer&descAlignY=60&descAlign=50&fontColor=ffffff" alt="header"/>
 </p>
 
 <!-- About Me -->
