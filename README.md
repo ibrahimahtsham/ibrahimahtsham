@@ -112,9 +112,9 @@ likes_building: dashboards, automations, and tools that save someone an hour a d
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/GOabrbLMl4AAAAAM/plink-cat-plink.gif" width="90" alt="Plink cat, me after closing a ticket"/>
+  <img src="https://media.tenor.com/GOabrbLMl4AAAAAM/plink-cat-plink.gif" width="90" alt="Plink cat: i see you"/>
   <br/>
-  <sub>me after closing a ticket</sub>
+  <sub>i see you</sub>
 </p>
 
 <p align="center">
