@@ -42,9 +42,9 @@ likes_building: dashboards, automations, and tools that save someone an hour a d
 | Project | What it does | Stack |
 | --- | --- | --- |
 | 🏗️ **Mammoth** · [demo](https://ibrahimahtsham.github.io/construction-job-manager/) | Construction job management platform that replaced a client's JobTread subscription: budgets, proposals, e-signatures, customer portal, QuickBooks sync, PDF generation, Microsoft SSO. Built alone, from requirements to deployment. | React · Node.js · PostgreSQL · Linux VPS |
+| 📡 **[BidRadar](https://github.com/ibrahimahtsham/bid-radar)** | Finds Freelancer.com projects that fit you, ranks the competing bidders, learns from what won on similar projects, and builds a ready-to-paste AI proposal prompt. Auto-tracks your bids and sounds an alert for hot new projects. | Vanilla JS · Freelancer API · Web Audio |
 | 🗂️ **[Claude Chat Manager](https://github.com/ibrahimahtsham/claude-chat-manager)** | Local web app to browse, search and clean up Claude Code chats, and to inspect and fix Claude's memory files with a health check. | Node.js · vanilla JS |
 | 🤖 **[AI Interviewer](https://github.com/ibrahimahtsham/ai-interviewer-online)** | Practice interviews for a chosen role, with an LLM, speech-to-text and text-to-speech behind swappable providers. | Python · Streamlit · OpenAI API |
-| 📊 **[Freelancer Bidding Automation](https://github.com/ibrahimahtsham/freelancer-client-info-grabber)** | Rule-based auto-bidding on the Freelancer.com API, proposal templates, and a dashboard for bid success rates and team commissions. | React · Vite · Recharts |
 | 📖 **[Dalil](https://github.com/ibrahimahtsham/dalil)** · [live](https://ibrahimahtsham.github.io/dalil/) | Reference site on Islamic history and belief where every claim cites the Quran or an authentic hadith. Family tree, timeline and 15 topic views. | Vanilla JS · JSON |
 | 🕌 **[Namaz Times](https://github.com/ibrahimahtsham/namaz-times)** · [live](https://ibrahimahtsham.github.io/namaz-times/) | Installable, offline prayer-times app with a live countdown and "leave by" times for the mosque. | Vanilla JS · PWA |
 
